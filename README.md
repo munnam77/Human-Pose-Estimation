@@ -1,6 +1,6 @@
 # 3D Human Pose Estimation
 
-This program is remodeled by moazzem (munnam77) forking [3d-pose-baseline] (https://github.com/ArashHosseini/3d-pose-baseline/) \ (ArashHosseini \).
+This program is remodeled by moazzem (munnam77) forking [3d-pose-baseline](https://github.com/ArashHosseini/3d-pose-baseline/).
 
 Please check the above URL or [README-ArashHosseini.md] (README-ArashHosseini.md) for details of operation.
 
