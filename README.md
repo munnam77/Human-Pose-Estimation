@@ -47,14 +47,6 @@ Download the compressed file below, unzip it, and place it under `experiments`.
     -In the case of `warn`, 3D animation GIF is not generated.
     -If `yes`, a detailed log is output, and a debug image is output in addition to the log message (slowly)
 1. Start processing
-1. When the process is completed, the following results are output in the `Person-by-person index path 'in 3.
-    -pos.txt… Joint data of all frames (required for [VMD-3d-pose-baseline-multi](https://github.com/miu200521358/VMD-3d-pose-baseline-multi)) Details: [Output ](doc / Output.md)
-    -start_frame.txt… Start frame index (required for [VMD-3d-pose-baseline-multi](https://github.com/miu200521358/VMD-3d-pose-baseline-multi) 
-    -smoothed.txt ... 2D position data for all frames (required for [VMD-3d-pose-baseline-multi](https://github.com/miu200521358/VMD-3d-pose-baseline-multi)) Details: [ Output](doc / Output.md)
-    -movie_smoothing.gif… Animated GIF combining postures for each frame
-    -smooth_plot.png… A graph with smooth movement
-    -frame3d / tmp_0000000000xx.png… 3D posture of each frame
-    -frame3d / tmp_0000000000xx_xxx.png… 3D posture by angle of each frame (only when detailed log is yes)
 
 
 ## License
