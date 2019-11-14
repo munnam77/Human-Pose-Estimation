@@ -37,7 +37,7 @@ Download the compressed file below, unzip it, and place it under `experiments`.
 ## Execution method
 
 1. Analyze data with [Openpose Simple Launch Batch](https://github.com/munnam77/openpose-simple)
-2. Generate data by depth estimation and person index with [Depth Estimation](https://github.com/munnam77/FCRN-DepthPrediction-vmd)
+2. Generate data by depth estimation and person index with [Depth Estimation](https://github.com/munnam77/FCRN-DepthPrediction)
 1. Run [OpenposeTo3D.bat] (OpenposeTo3D.bat)
 1. You will be asked `Directory path by INDEX`, so specify the full path of` Path by person index` in 2.
 	-`{Video file name} _json_ {Execution date and time} _index {Order from the left of the 0th floor}}
@@ -56,10 +56,6 @@ Download the compressed file below, unzip it, and place it under `experiments`.
     -frame3d / tmp_0000000000xx.png… 3D posture of each frame
     -frame3d / tmp_0000000000xx_xxx.png… 3D posture by angle of each frame (only when detailed log is yes)
 
-## Important point
-
--Do not use a 12-digit number string in the Openson json arbitrary file name.
-    -To extract a 12-digit number as the frame number from the file name `{arbitrary file name} _ {frame number} _keypoints.json`, like` short02_000000000000_keypoints.json`
 
 ## License
 MIT
