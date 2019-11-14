@@ -17,7 +17,6 @@ Please check the above URL or [README-ArashHosseini.md](README-ArashHosseini.md)
 ## 3D Reconstruction
 <p align="center">
 	<img src="/Results/original.gif", width="360">
-	<br>
     	<sup>Testing the 3D Reconstruction Module of OpenPose</sup>
 	<img src="/Results/conmaps.gif", width="360">
 	<img src="/Results/paf.gif", width="360">
