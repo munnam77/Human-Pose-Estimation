@@ -8,7 +8,7 @@ Please check the above URL or [README-ArashHosseini.md](README-ArashHosseini.md)
 
 - [Generates](https://github.com/CMU-Perceptual-Computing-Lab/openpose) a 3D human model from the human skeleton detected by [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose).
 - Output joint data when generating 3D human model
-    	- By reading joint data with [3d-pose-baseline-motion](https://github.com/miu200521358/VMD-3d-pose-baseline-multi)
+    	- By reading joint data with [3d-pose-baseline-multi](https://github.com/munnam77/3d-pose-baseline-multi)
 - Analyze OpenPose data for multiple people.
 	- Try to analysis for only one person.
 	- Ver2.00 is now supports multiple people tracing. Please check [FCRN-DepthPrediction](https://github.com/munnam77/FCRN-DepthPrediction) for details.
