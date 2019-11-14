@@ -13,6 +13,12 @@ Please check the above URL or [README-ArashHosseini.md](README-ArashHosseini.md)
 	- Try to analysis for only one person.
 	- Ver2.00 is now supports multiple people tracing. Please check [FCRN-DepthPrediction](https://github.com/munnam77/FCRN-DepthPrediction) for details.
 
+### Result
+
+<p align="center">
+	<img src="/imgs/interpolation.gif", width="360">
+</p>
+
 ### Dependencies
 
 Install the following in python3 series
