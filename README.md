@@ -16,7 +16,7 @@ Please check the above URL or [README-ArashHosseini.md](README-ArashHosseini.md)
 ### Result
 
 <p align="center">
-	<img src="/imgs/interpolation.gif", width="360">
+	<img src="/Results/3d_interpolation.gif", width="360">
 </p>
 
 ### Dependencies
