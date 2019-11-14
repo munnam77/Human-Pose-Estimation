@@ -10,8 +10,8 @@ Please check the above URL or [README-ArashHosseini.md](README-ArashHosseini.md)
 - Output joint data when generating 3D human model
     	- By reading joint data with [3d-pose-baseline-motion](https://github.com/miu200521358/VMD-3d-pose-baseline-multi)
 - Analyze OpenPose data for multiple people.
-    	- Try to analysis for only one person.
-    	- Ver2.00 is now supports multiple people tracing. Please check [FCRN-DepthPrediction-vmd](https://github.com/miu200521358/FCRN-DepthPrediction-vmd) for details.
+	- Try to analysis for only one person.
+	- Ver2.00 is now supports multiple people tracing. Please check [FCRN-DepthPrediction-vmd](https://github.com/miu200521358/FCRN-DepthPrediction-vmd) for details.
 
 ### Dependencies
 
