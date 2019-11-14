@@ -14,12 +14,16 @@ Please check the above URL or [README-ArashHosseini.md](README-ArashHosseini.md)
 	- Ver2.00 is now supports multiple people tracing. Please check [FCRN-DepthPrediction](https://github.com/munnam77/FCRN-DepthPrediction) for details.
 
 ### Result
-
+## 3D Reconstruction
 <p align="center">
 	<img src="/Results/original.gif", width="360">
+	<br>
+    	<sup>Testing the 3D Reconstruction Module of OpenPose</sup>
 	<img src="/Results/conmaps.gif", width="360">
 	<img src="/Results/paf.gif", width="360">
 	<img src="/Results/paf2.gif", width="360">
+</p>
+<p align="center">
 	<img src="/Results/3d_interpolation.gif", width="360">
 	<img src="/Results/3d_interpolation2.gif", width="360">
 	<img src="/Results/3d_interpolation3.gif", width="360">
